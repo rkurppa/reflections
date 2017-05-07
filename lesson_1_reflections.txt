@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+	It became a lot easier because there was way less code to
+	go through.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+	Often I have to try a lot of new things and then roll back a long way to
+	recover certain state. Easy access to version history makes it a lot easier.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+	Manually choosing when to create a commit ensures that you can return to
+	a desired end state - the one which you deemed worthy of a commit. In
+	Google Docs the great thing is that you cannot 'forget' to commit, as
+	it is taken care of for you, but individual commits are less likely to
+	contain just the thing you want.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	The VCSes were created for different purposes. Google Docs is basically
+	a rich-text editor, and the VCS exists to ease the editing of a file by
+	several contributors and to make the changelog readily available for each.
+	Git was created for programming, which typically has a lot of dependencies
+	between different files, so their tracking together is sensible.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Use git log to see all changes committed, located change based on messages.
+	Then use git diff between two of the commits to see what has changed.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+	VCS enables you to recover from breaking mistakes, and see why they occurred.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Just basic getting familiar with the tool - to standardize my VCS use,
+	learn best practices, how to use git without it being a chore.
