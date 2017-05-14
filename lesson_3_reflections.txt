@@ -28,3 +28,11 @@ What is the benefit of having a copy of the last known state of the remote store
 
 	It enables me to look at changes made from latest published version, regardless of how
 	many commits / branches / etc. I have made to the local version.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be
+harder?
+
+	By sending copies of the code by email. This would mean more manual labour in checking for
+	conflicts, more places for human error and unnecessary work all around. Other way would be
+	to create a shared file using eg. Google Docs or OneDrive, but they are not capable as
+	development environments.
