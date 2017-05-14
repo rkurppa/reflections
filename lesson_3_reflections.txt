@@ -24,3 +24,7 @@ of another?
 	Branch: Make a copy of a project so you can make changes while still enabling others to
 	keep using and developing one version of the project. Can be merged back.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	It enables me to look at changes made from latest published version, regardless of how
+	many commits / branches / etc. I have made to the local version.
