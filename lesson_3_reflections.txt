@@ -13,3 +13,14 @@ stay up-to-date with your remote repository?
 	want to automatically load those changes to my local repository, in case they conflict
 	with my changes. If I can pull manually, I also control what and when is pulled. Another
 	case would be someone inserting malicious code to a project.
+	
+Describe the differences between forks, clones, and branches. When would you use one instead
+of another?
+
+	Fork: Copies a repository from someone else, so you can create your own changes even in
+	the case where you don't have the permissions to edit the original repository.
+	Clone: Copy a repository to another location where you can edit it, eg. from GitHub to
+	local machine.
+	Branch: Make a copy of a project so you can make changes while still enabling others to
+	keep using and developing one version of the project. Can be merged back.
+
